@@ -220,7 +220,7 @@ footer {
   </p>
   <!-- Replace 91XXXXXXXXXX with your WhatsApp number, including country code. -->
   <a class="button"
-     href="https://wa.me/91XXXXXXXXXX?text=Congratulations%20Deepak%20and%20Dolly!%20I%20will%20attend%20your%20wedding."
+     href="https://wa.me/918630966203?text=Congratulations%20Deepak%20and%20Dolly!%20I%20will%20attend%20your%20wedding."
      target="_blank" rel="noopener">
      RSVP on WhatsApp
   </a>
